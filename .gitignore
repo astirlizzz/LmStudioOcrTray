@@ -1,0 +1,8 @@
+.worktrees/
+.vs/
+**/bin/
+**/obj/
+artifacts/
+*.user
+*.suo
+*.cache
